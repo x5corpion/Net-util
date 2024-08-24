@@ -1,12 +1,32 @@
-# Net-util
-This is a very basic tool for finding IP of any website and your IP. This is just for fun.
+<h3 align="center">
+    <img src="https://github.com/x5corpion/Net-util/blob/main/Gemini_Generated_Image_n3ar2nn3ar2nn3ar.jpeg" alt="logo" height="250px">
+</h3>
 
+<p align="center">
+    <b>Net util</b>
+    <br>
+    <br>
+    <a href="t.me/Thermite_II">
+    </a>
+    <br>
+    <br>
+    This is a very basic tool for network analysis.
+    <br>
+    <br>
+    <br>
+    <b>Installation</b><br>
+    <br>
+</p>
 
-clone this repo:
+```bash
+# Clone or download this repository
+$ https://github.com/x5corpion/Net-util.git
 
-1) git clone https://github.com/x5corpion/Net-util.git
+# Go into the repository
+$ cd self-stealer
 
-2) cd Net-util
+$ pip install getmac colorama socket requests
 
-3) python3 Net-util.py
-
+# Start the GUI
+$ python netutil.py
+```
