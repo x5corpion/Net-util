@@ -4,7 +4,9 @@ This is a very basic tool for finding IP of any website and your IP. This is jus
 
 clone this repo:
 
-1) git clone https://github.com/x5corpion/IP-finder.git
+1) git clone https://github.com/x5corpion/Net-util.git
 
-2) python ip finder.py
+2) cd Net-util
+
+3) python3 Net-util.py
 
